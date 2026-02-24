@@ -8,7 +8,7 @@
 ## 👤 My Role
 Project Coordinator / Procore Administrator
 
-I supported the project team by administering and configuring Procore workflows, managing construction documentation, and strengthening reporting visibility across the project lifecycle.
+I supported the project team by administering and configuring Procore workflows, managing construction documentation, and strengthening reporting visibility throughout active construction and closeout phases.
 
 ---
 
@@ -24,7 +24,7 @@ The team needed:
 - Alignment between field teams and office stakeholders
 - Timely information, inmediate knowlege of the approval  responses of the External Teams  
 
-Without disciplined workflows, there was risk of delayed responses and fragmented documentation.
+These conditions required disciplined workflows to maintain timely responses and consistent documentation across the project team.
 
 ---
 
@@ -54,8 +54,8 @@ Without disciplined workflows, there was risk of delayed responses and fragmente
 
 - Procore (Admin, Document Control, RFIs, Submittals)  
 - Autocad 2D
-- Excel Reporting, Microsoft Tools 
-- Construction Document Management  
+- Advanced Excel & Reporting  
+- Construction Document Management Systems    
 
 ---
 
